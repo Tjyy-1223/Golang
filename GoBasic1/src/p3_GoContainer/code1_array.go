@@ -3,7 +3,8 @@ package main
 import "fmt"
 
 func code1() {
-	var team [3]string = [3]string{"hammer", "solider", "mum"}
+	//var team [3]string = [3]string{"hammer", "solider", "mum"}
+	team := [3]string{"hammer", "solider", "mum"}
 
 	for k, v := range team {
 		fmt.Println(k, v)

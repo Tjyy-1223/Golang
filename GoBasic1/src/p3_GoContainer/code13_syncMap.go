@@ -16,6 +16,6 @@ func testSyncMap() {
 	}
 }
 
-func main() {
-	testSyncMap()
-}
+//func main() {
+//	testSyncMap()
+//}

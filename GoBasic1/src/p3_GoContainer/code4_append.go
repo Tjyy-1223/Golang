@@ -27,9 +27,9 @@ func testAppend3() {
 	fmt.Println(a)
 }
 
-func main() {
-	//testAppend1()
-
-	//testAppend2()
-	testAppend3()
-}
+//func main() {
+//	//testAppend1()
+//
+//	//testAppend2()
+//	testAppend3()
+//}

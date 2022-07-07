@@ -64,6 +64,6 @@ func testMapKey() {
 	//fmt.Println(list)
 }
 
-func main() {
-	testMapKey()
-}
+//func main() {
+//	testMapKey()
+//}

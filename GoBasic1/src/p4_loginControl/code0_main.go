@@ -11,5 +11,19 @@ func main() {
 	//TestForExample()
 
 	//code 4
-	TestRange()
+	//TestRange()
+
+	// code 5
+	//testSwitch()
+
+	// code 7
+	//testBreak();
+
+	// code 8
+	//testContinue()
+
+	// code 9
+	
 }
+
+

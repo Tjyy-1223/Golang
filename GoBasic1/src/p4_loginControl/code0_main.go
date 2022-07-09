@@ -25,7 +25,7 @@ func main() {
 	// code 9
 	//ChatRobot()
 
-	// code 10
+	// code 10 - go run .\main.go small-file.txt
+	//WordFreq()
 
 }
-

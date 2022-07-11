@@ -12,4 +12,7 @@ func main() {
 	// code 5
 	//testStringProcess()
 
+	// code6
+	//testVisit()
+
 }

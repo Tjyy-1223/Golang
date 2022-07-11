@@ -16,5 +16,10 @@ func main() {
 	//testVisit()
 
 	//code interface
-	testInterface()
+	//testInterface()
+
+	// code 8
+	//testAccumulator()
+	//testPlayerGen()
+
 }

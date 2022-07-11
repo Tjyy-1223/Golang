@@ -9,5 +9,7 @@ func main() {
 	// code 3
 	//testPassByValue()
 
-	testStringProcess()
+	// code 5
+	//testStringProcess()
+
 }

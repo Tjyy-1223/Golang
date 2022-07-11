@@ -25,6 +25,13 @@ func removePrefix(str string) string {
 	return strings.TrimPrefix(str, "go")
 }
 
+func testPassList(l []int) {
+	fmt.Printf("%p\n", &l)
+	l[0] = 555
+	l[1] = 666
+	l[2] = 888
+}
+
 func testStringProcess() {
 	list := []string{
 		"go run",
@@ -43,4 +50,11 @@ func testStringProcess() {
 	for _, str := range list {
 		fmt.Println(str)
 	}
+
+	l := []int{1, 2, 3}
+	fmt.Printf("%p\n", &l)
+	fmt.Println(l)
+
+	testPassList(l)
+	fmt.Println(l)
 }

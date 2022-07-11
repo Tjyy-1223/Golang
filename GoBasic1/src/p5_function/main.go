@@ -15,4 +15,6 @@ func main() {
 	// code6
 	//testVisit()
 
+	//code interface
+	testInterface()
 }

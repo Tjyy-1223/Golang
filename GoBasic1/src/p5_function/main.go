@@ -22,6 +22,13 @@ func main() {
 	//testAccumulator()
 	//testPlayerGen()
 
-	testMyPrintf()
+	//testMyPrintf()
 
+	//fmt.Println(add(1, 2))
+
+	// code 12 exception
+	//fmt.Println(div(1, 0))
+
+	//e := newParseError("main.go", 1)
+	//fmt.Println(e.Error())
 }

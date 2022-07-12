@@ -32,5 +32,9 @@ func main() {
 	//e := newParseError("main.go", 1)
 	//fmt.Println(e.Error())
 
-	testPanic()
+	// code 13 panic
+	//testPanic()
+
+	// code 14 recover
+	testProtectRun()
 }

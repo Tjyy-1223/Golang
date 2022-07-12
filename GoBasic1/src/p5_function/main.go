@@ -39,5 +39,8 @@ func main() {
 	//testProtectRun()
 
 	// code15 RecordTime
-	recordTime()
+	//recordTime()
+
+	//code 16
+	originalTime()
 }

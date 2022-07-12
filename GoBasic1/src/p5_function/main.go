@@ -42,5 +42,7 @@ func main() {
 	//recordTime()
 
 	//code 16
-	originalTime()
+	//originalTime()
+
+	hashFunc()
 }

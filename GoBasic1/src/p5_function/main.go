@@ -31,4 +31,6 @@ func main() {
 
 	//e := newParseError("main.go", 1)
 	//fmt.Println(e.Error())
+
+	testPanic()
 }

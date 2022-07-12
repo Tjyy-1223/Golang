@@ -36,5 +36,8 @@ func main() {
 	//testPanic()
 
 	// code 14 recover
-	testProtectRun()
+	//testProtectRun()
+
+	// code15 RecordTime
+	recordTime()
 }
